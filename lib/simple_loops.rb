@@ -24,4 +24,4 @@ def output_array(array)
   end
 end
 
-def string
+def return_string_array(array)
